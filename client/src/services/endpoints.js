@@ -1,0 +1,9 @@
+export const signupurl = `http://localhost:4000/signup`
+export const signinurl = `http://localhost:4000/signin`
+export const projecturl = `http://localhost:4000/readAllProject`
+export const createproject = `http://localhost:4000/createProject`
+export const readproject = `http://localhost:4000/readProject`
+export const updateproject = `http://localhost:4000/updateProject`
+export const readtask = `http://localhost:4000/readTask`
+export const addtask = `http://localhost:4000/addtask`
+export const updatetask = `http://localhost:4000/UpdateTask`
